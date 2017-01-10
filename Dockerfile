@@ -1,4 +1,4 @@
-FROM centos7:latest
+FROM centos:7
 MAINTAINER Marcel Wysocki <mwysocki@redhat.com>
 
 LABEL caddy_version="0.9.4" architecture="amd64"
